@@ -1,0 +1,10 @@
+{
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/first-dog-purchased-with-solana",
+        "permanent": true
+      }
+    ]
+  }
+  
